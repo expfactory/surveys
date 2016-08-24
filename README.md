@@ -1,4 +1,4 @@
-# Expfactory-survey
+# Experiment Factory Surveys
 
 An experiment factory survey is a folder with a complete set of files for deploying a web-based survey, ideal for behavioral experiments or assessments. They use Google Material Design Lite styling, and generally look like this:
 
